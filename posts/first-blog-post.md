@@ -8,16 +8,17 @@ allow_math: true
 
 
 ## The Explosive Cup of Coffee: A Scavenger Hunt Adventure
-![exploding coffee](coffee.jpeg)
 Given the task of finding specific items around our new home, we embarked on an adventurous scavenger hunt. The first intriguing items on the list was an "explosive cup of coffee". We weren't sure what it meant, but we were determined to find out..
+![exploding coffee](coffee.jpeg)
 
 ## Digital Media Wisdom Book: to the Library!
-![digital media book](book_of_wisdom.jpeg)
 Our scavenger hunt continued. The next item on our list was a "book containing digital media wisdom". Intrigued by the prospect, we headed towards the library, a place we had yet to explore in our new home.
+![book of wisdom](book.jpeg)
 
 ## The Flying Paper Cargo: Both Intriguing and Perplexing
+Despite our best efforts, we couldn’t decipher its meaning or figure out where to find it. Determined not to get stuck, we decided to seek some expert advice. Still within the library, we hoped that the knowledgeable staff might be able to help us.
 ![net trung above](net.jpeg)
-Despite our best efforts, we couldn’t decipher its meaning or figure out where to find it. Determined not to get stuck, we decided to seek some expert advice. Still within the library, we hoped that the knowledgeable staff might be able to help us. 
+
 
 
 
