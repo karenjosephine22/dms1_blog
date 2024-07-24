@@ -1,10 +1,13 @@
 ---
-title: the Adventure Begins!
+title: and so the Adventure Begins!
 published_at: 2024-07-24
 snippet: An example of a blog post.
 disable_html_sanitization: true
 allow_math: true
 ---
+
+# Scavenger Hunt
+
 
 ## an explosive cup of coffee
 ![exploding coffee](coffee.jpeg)
