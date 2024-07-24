@@ -6,7 +6,7 @@ disable_html_sanitization: true
 allow_math: true
 ---
 
-# This is h1
+## explosive cup of coffee
 ![exploding coffee](coffee.jpeg)
 
 ![a drippy lemon](logo.svg)
