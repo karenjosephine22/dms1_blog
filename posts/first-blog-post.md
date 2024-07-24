@@ -12,7 +12,7 @@ allow_math: true
 Given the task of finding specific items around our new home, we embarked on an adventurous scavenger hunt. The first intriguing items on the list was an "explosive cup of coffee". We weren't sure what it meant, but we were determined to find out..
 
 ## the Digital Media Wisdom Book: to the Library!
-![the digital media book](book_of_wisdom.jpeg)
+![digital media book](book_of_wisdom.jpeg)
 Our scavenger hunt continued. The next item on our list was a "book containing digital media wisdom". Intrigued by the prospect, we headed towards the library, a place we had yet to explore in our new home.
 
 ## This is h2
