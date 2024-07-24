@@ -7,7 +7,7 @@ allow_math: true
 ---
 
 # This is h1
-`![exploding coffee?](coffee.jpeg)`
+![exploding coffee](coffee.jpeg)
 
 ![a drippy lemon](logo.svg)
 
