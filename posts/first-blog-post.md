@@ -1,18 +1,16 @@
 ---
-title: and so the Adventure Begins!
+title: Unlocking New Adventure!
 published_at: 2024-07-24
 snippet: An example of a blog post.
 disable_html_sanitization: true
 allow_math: true
 ---
 
-# Scavenger Hunt
 
-
-## an explosive cup of coffee
+## the Explosive Cup of Coffee: A Scavenger Hunt Adventure
 ![exploding coffee](coffee.jpeg)
+Given the task of finding specific items around our new home, we embarked on an adventurous scavenger hunt. The first intriguing items on the list was an "explosive cup of coffee". We weren't sure what it meant, but we were determined to find out..
 
-![a drippy lemon](logo.svg)
 
 ^ images are written like this: `![description](file_path/file_name.png)`
 
