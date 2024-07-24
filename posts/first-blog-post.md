@@ -6,7 +6,7 @@ disable_html_sanitization: true
 allow_math: true
 ---
 
-## explosive cup of coffee
+<!-- ## an explosive cup of coffee -->
 ![exploding coffee](coffee.jpeg)
 
 ![a drippy lemon](logo.svg)
