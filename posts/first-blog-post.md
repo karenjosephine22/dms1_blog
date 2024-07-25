@@ -8,11 +8,11 @@ allow_math: true
 
 
 ## The Explosive Cup of Coffee: A Scavenger Hunt Adventure
-*Given the task of finding specific items around our new home, we embarked on an adventurous scavenger hunt. The first intriguing items on the list was an "explosive cup of coffee". We weren't sure what it meant, but we were determined to find out..*
+*Given the task of finding specific items around our new campus, we embarked on an adventurous scavenger hunt. The first intriguing items on the list was an "explosive cup of coffee". We weren't sure what it meant, but we were determined to find out..*
 ![exploding coffee](coffee.jpeg)
 
-## Digital Media Wisdom Book: to the Library!
-*Our scavenger hunt continued. The next item on our list was a "book containing digital media wisdom". Intrigued by the prospect, we headed towards the library, a place we had yet to explore in our new home.*
+## Digital Media Wisdom Book: To the Library!
+*Our scavenger hunt continued. The next item on our list was a "book containing digital media wisdom". Intrigued by the prospect, we headed towards the library, a place we had yet to explore in our new campus.*
 ![book of wisdom](book.jpeg)
 
 ## The Flying Paper Cargo: Both Intriguing and Perplexing
@@ -36,16 +36,14 @@ allow_math: true
 ![door of the condemned](door.jpeg)
 
 ## The Curtain of Roots: A Winged Visitor’s Gift
-*The scavenger hunt was nearing its end, and we were eager to solve the final puzzles. As we walked along the main road, something caught our eye --  a staircase, partially hidden by a dense curtain of roots and creeping vines.*
-![roots](curtain.jpeg)
+*The scavenger hunt was nearing its end, and we were eager to solve the final puzzles. As we walked along the main road, something caught our eye -- a staircase, partially hidden by a dense curtain of roots and creeping vines.*
+![curtain](curtain.jpeg)
 
 ## The Basement-Dwelling Black Box
 *We headed straight to the building, our steps quick with anticipation. Entering the familiar structure, we bypassed the main floors and headed directly to the basement, knowing that this was where our second final clue was likely hidden.*
-![black box](box.jpeg)
 
 ## The Golden Globe: Our Final Find
-With the scavenger hunt nearing its grand finale
-![golden globe](globe.jpeg)
+*With the scavenger hunt nearing its grand finale*
 
 
 ## This is h2
