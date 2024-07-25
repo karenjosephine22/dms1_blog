@@ -55,7 +55,7 @@ You can find a markdown cheat-sheet [here](https://www.markdownguide.org/cheat-s
 
 ## Night Stroll in the Park
 
-<iframe id="late_night_stroll" src="https://www.youtube.com/watch?v=1QqKl5ybR-A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe id="late_night_stroll" src="https://youtu.be/1QqKl5ybR-A?si=sn_0IkVxeTNueU9g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <script type="module">
 
