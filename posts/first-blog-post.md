@@ -9,7 +9,7 @@ allow_math: true
 
 ## The Explosive Cup of Coffee: A Scavenger Hunt Adventure
 *Given the task of finding specific items around our new campus, we embarked on an adventurous scavenger hunt. The first intriguing items on the list was an "explosive cup of coffee". We weren't sure what it meant, but we were determined to find out..*
-![exploding](coffee.jpeg)
+![Exploding](coffee.jpeg)
 
 ## Digital Media Wisdom Book: To the Library!
 *Our scavenger hunt continued. The next item on our list was a "book containing digital media wisdom". Intrigued by the prospect, we headed towards the library, a place we had yet to explore in our new campus.*
