@@ -53,9 +53,9 @@ Hyperlinks can be written like this: `[text](https://URL)`
 
 You can find a markdown cheat-sheet [here](https://www.markdownguide.org/cheat-sheet/).
 
-## Night Stroll in the Park
+## Embedding Video
 
-<iframe id="late_night_stroll" src="https://youtu.be/1QqKl5ybR-A?si=sn_0IkVxeTNueU9g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1QqKl5ybR-A?si=7cVbkTxenuQyVVne" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <script type="module">
 
