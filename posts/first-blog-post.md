@@ -48,13 +48,6 @@ allow_math: true
 ![golden globe](globe.jpeg)
 
 
-## This is h2
-
-*This is italic.*[^1]
-
-[^1]: This is a footnote, *which can also be italic*.
-
-**This is bold.**
 
 Hyperlinks can be written like this: `[text](https://URL)`
 
