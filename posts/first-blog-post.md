@@ -8,17 +8,24 @@ allow_math: true
 
 
 ## The Explosive Cup of Coffee: A Scavenger Hunt Adventure
-Given the task of finding specific items around our new home, we embarked on an adventurous scavenger hunt. The first intriguing items on the list was an "explosive cup of coffee". We weren't sure what it meant, but we were determined to find out..
+*Given the task of finding specific items around our new home, we embarked on an adventurous scavenger hunt. The first intriguing items on the list was an "explosive cup of coffee". We weren't sure what it meant, but we were determined to find out..*
 ![exploding coffee](coffee.jpeg)
 
 ## Digital Media Wisdom Book: to the Library!
-Our scavenger hunt continued. The next item on our list was a "book containing digital media wisdom". Intrigued by the prospect, we headed towards the library, a place we had yet to explore in our new home.
+*Our scavenger hunt continued. The next item on our list was a "book containing digital media wisdom". Intrigued by the prospect, we headed towards the library, a place we had yet to explore in our new home.*
 ![book of wisdom](book.jpeg)
 
 ## The Flying Paper Cargo: Both Intriguing and Perplexing
-Despite our best efforts, we couldn’t decipher its meaning or figure out where to find it. Determined not to get stuck, we decided to seek some expert advice. Still within the library, we hoped that the knowledgeable staff might be able to help us.
+*Despite our best efforts, we couldn’t decipher its meaning or figure out where to find it. Determined not to get stuck, we decided to seek some expert advice. Still within the library, we hoped that the knowledgeable staff might be able to help us.*
 ![net trung above](net.jpeg)
 
+## The Sith Lord's Study: A Familiar Place
+*Determined to figure out why the room felt so familiar, I led my friends and retraced our steps through the library. We arrived at a part of the library I’d visited several days ago, during a different event.*
+![study space](study.jpeg)
+
+## The Faraway Beverage Machine: Seeking Guidence yet Again
+*After our realization that the “wide machine dispensing beverages from a faraway land” was a vending machine, we needed to find one to continue our scavenger hunt. Remembering our previous success with the library’s helpful staff, we decided to ask Mrs. X , the librarian we had met before.*
+![vending machine](machine.jpeg)
 
 
 
