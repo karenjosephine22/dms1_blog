@@ -41,6 +41,7 @@ allow_math: true
 
 ## The Basement-Dwelling Black Box
 *We headed straight to the building, our steps quick with anticipation. Entering the familiar structure, we bypassed the main floors and headed directly to the basement, knowing that this was where our second final clue was likely hidden.*
+![black box](box.jpeg)
 
 ## The Golden Globe: Our Final Find
 *With the scavenger hunt nearing its grand finale*
