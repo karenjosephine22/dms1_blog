@@ -54,15 +54,14 @@ Hyperlinks can be written like this: `[text](https://URL)`
 You can find a markdown cheat-sheet [here](https://www.markdownguide.org/cheat-sheet/).
 
 ## Night Stroll in the Park
-![park at night](park.mp4)
 
-<iframe id="coding_train_video" src="https://www.youtube.com/embed/rI_y2GAlQFM?si=RDgjkpunxk1mQzMI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe id="late_night_stroll" src="https://www.youtube.com/watch?v=1QqKl5ybR-A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <script type="module">
 
     console.log (`hello world! 🚀`)
 
-    const iframe  = document.getElementById (`coding_train_video`)
+    const iframe  = document.getElementById (`late_night_stroll`)
     iframe.width  = iframe.parentNode.scrollWidth
     iframe.height = iframe.width * 9 / 16
 
