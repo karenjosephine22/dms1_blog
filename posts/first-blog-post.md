@@ -35,6 +35,17 @@ allow_math: true
 *While pondering our options, we bumped into the other group participating in the scavenger hunt. We exchanged a few clues and insights, sharing our respective findings. They mentioned a clue they had come across about a prison..*
 ![door of the condemned](door.jpeg)
 
+## The Curtain of Roots: A Winged Visitor’s Gift
+*The scavenger hunt was nearing its end, and we were eager to solve the final puzzles. As we walked along the main road, something caught our eye --  a staircase, partially hidden by a dense curtain of roots and creeping vines.*
+![roots](curtain.jpeg)
+
+## The Basement-Dwelling Black Box
+*We headed straight to the building, our steps quick with anticipation. Entering the familiar structure, we bypassed the main floors and headed directly to the basement, knowing that this was where our second final clue was likely hidden.*
+![black box](box.jpeg)
+
+## The Golden Globe: Our Final Find
+With the scavenger hunt nearing its grand finale
+![golden globe](globe.jpeg)
 
 
 ## This is h2
