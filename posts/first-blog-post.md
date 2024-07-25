@@ -53,17 +53,7 @@ Hyperlinks can be written like this: `[text](https://URL)`
 
 You can find a markdown cheat-sheet [here](https://www.markdownguide.org/cheat-sheet/).
 
-## Maths:
-
-... which can be written inline, like this: $\{ x, y, z \} \in \N$
-
-... or block, like this:
-
-$$ x^2 + y^2 = z^2 $$
-
-Visit [ $\KaTeX$ ](https://katex.org/docs/supported#fractions-and-binomials) for more information about writing maths.
-
-## Embedding video:
+## Night Stroll in the Park
 
 <iframe id="coding_train_video" src="https://www.youtube.com/embed/rI_y2GAlQFM?si=RDgjkpunxk1mQzMI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
