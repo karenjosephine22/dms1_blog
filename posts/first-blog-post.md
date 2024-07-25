@@ -37,7 +37,7 @@ allow_math: true
 
 ## The Curtain of Roots: A Winged Visitor’s Gift
 *The scavenger hunt was nearing its end, and we were eager to solve the final puzzles. As we walked along the main road, something caught our eye -- a staircase, partially hidden by a dense curtain of roots and creeping vines.*
-![curtain](curtain.jpeg)
+![curtain of roots](curtain.jpeg)
 
 ## The Basement-Dwelling Black Box
 *We headed straight to the building, our steps quick with anticipation. Entering the familiar structure, we bypassed the main floors and headed directly to the basement, knowing that this was where our second final clue was likely hidden.*
