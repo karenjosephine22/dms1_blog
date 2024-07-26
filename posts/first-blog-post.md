@@ -9,7 +9,7 @@ allow_math: true
 
 ## The Explosive Cup of Coffee: A Scavenger Hunt Adventure
 *Given the task of finding specific items around our new campus, we embarked on an adventurous scavenger hunt. The first intriguing items on the list was an "explosive cup of coffee". We weren't sure what it meant, but we were determined to find out..*
-![Exploding](coffee.jpeg)
+![exploding](coffee.jpeg)
 
 ## Digital Media Wisdom Book: To the Library!
 *Our scavenger hunt continued. The next item on our list was a "book containing digital media wisdom". Intrigued by the prospect, we headed towards the library, a place we had yet to explore in our new campus.*
@@ -47,11 +47,6 @@ allow_math: true
 *The golden globe, atop the tower of eights. Time was ticking out, and we had yet to find the last item on our list. Desperation set in. With time almost up, someone pointed out a decorative lampion hanging nearby. It was a yellowish-golden color, and while it wasn’t exactly a globe, it was the closest thing we had found.*
 ![golden globe](globe.jpeg)
 
-
-
-Hyperlinks can be written like this: `[text](https://URL)`
-
-You can find a markdown cheat-sheet [here](https://www.markdownguide.org/cheat-sheet/).
 
 ## Night Stroll in the Park
 
