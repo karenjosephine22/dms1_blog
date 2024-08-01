@@ -55,6 +55,12 @@ allow_math: true
 ## 30s Footage Edit
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ImqxJWa_aks?si=UTgpCdA2Pdars9Re" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+## Story Board from Youtube
+![how to train your dragon](dragon.jpeg)
+
+## Self Potrait Story Board
+
+
 ## Embedding p5 sketches:
 
 <iframe id="falling_falling" src="https://editor.p5js.org/capogreco/full/Fkg05m7aA"></iframe>
