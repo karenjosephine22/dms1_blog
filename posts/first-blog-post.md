@@ -61,6 +61,9 @@ allow_math: true
 ## Self Potrait Story Board
 
 
+## Sound Edit Week 3
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rczsJ46S-iQ?si=jPJlISM4YZS7-SII" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Embedding p5 sketches:
 
 <iframe id="falling_falling" src="https://editor.p5js.org/capogreco/full/Fkg05m7aA"></iframe>
