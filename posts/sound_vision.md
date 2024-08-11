@@ -1,6 +1,6 @@
 ---
-title: Crafting the Perfect Soundtrack🌟
-published_at: 2024-07-29
+title: Crafting the Perfect Soundtrack🎬🌟🧩📌
+published_at: 2024-08-02
 snippet: Sound Design Q&A about Self Potrait Video
 disable_html_sanitization: true
 allow_math: true

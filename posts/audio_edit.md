@@ -1,5 +1,5 @@
 ---
-title: Diving into Audio
+title: Diving into Audio In-Depth Exploration🎥🕰️🏃‍♀️🚀 
 published_at: 2024-08-05
 snippet: A Journey Through Sound Concepts and Techniques
 disable_html_sanitization: true

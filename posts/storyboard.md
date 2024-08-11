@@ -1,5 +1,5 @@
 ---
-title: A Guide to Visualizing Your Narrative
+title: A Guide to Visualizing Your Narrative💓🏐🎨🎼
 published_at: 2024-07-29
 snippet: Crafting Compelling Storyboards
 disable_html_sanitization: true

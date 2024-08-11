@@ -1,5 +1,5 @@
 ---
-title: Unlocking New Adventure
+title: Unlocking New Adventure☕📚🙊🌍
 published_at: 2024-07-22
 snippet: Thrill, Exploration, and Fun in Our Scavenger Hunt!
 disable_html_sanitization: true

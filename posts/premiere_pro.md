@@ -1,5 +1,5 @@
 ---
-title: Getting Started with Premiere Pro
+title: Getting Started with Premiere Pro 🌕💫🌳🌻
 published_at: 2024-07-26
 snippet: Mastering Footage & Creative Experiments
 disable_html_sanitization: true
