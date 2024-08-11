@@ -1,6 +1,6 @@
 ---
 title: Diving into Audio
-published_at: 2024-08-02
+published_at: 2024-08-05
 snippet: A Journey Through Sound Concepts and Techniques
 disable_html_sanitization: true
 allow_math: true
