@@ -16,3 +16,4 @@ allow_math: true
 *I aim to establish a rhythm that reflects the emotional tone and narrative progression. The tempo or pace will be crafted to either create a sense of calm and introspection or to build tension and excitement, depending on the desired impact. By controling the timing of cuts, the duration of each shot, and the flow of transitions with the rhythm of the accompanying audio and visual elements.*
 
 ## Updated Version of Story Board
+![storyboard update](update.png)
