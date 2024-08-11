@@ -1,5 +1,5 @@
 ---
-title: Unlocking New Adventure!
+title: Introduction to Premiere Pro!
 published_at: 2024-07-24
 snippet: An example of a blog post.
 disable_html_sanitization: true
