@@ -8,7 +8,7 @@ allow_math: true
 
 ## Story Board from Youtube
 ![how to train your dragon](hiccup.png)
-*"How to Train Your Dragon" holds a special place in my heart❤️, especially the first film, which marks the beginning of an extraordinary journey. This film's visual storytelling is a testament to the power of storyboarding and drawing skills in animation. By examining a small clip from the movie, I gained a deeper appreciation for the meticulous work that goes into creating such a compelling visual narrative. Strong drawing skills are essential for translating a script into a compelling visual narrative, with careful attention to visual clarity, movement, emotion, camera angles, and color.👏* 
+*"How to Train Your Dragon" holds a special place in my heart❤️, especially the first film, which marks the beginning of an extraordinary journey. By examining a small clip from the movie, I gained a deeper appreciation for the meticulous work that goes into creating such a compelling visual narrative, with careful attention to visual clarity, movement, emotion, camera angles, and color.👏* 
 
 ## Self Potrait Story Board
 ![self potrait](potrait.png)
