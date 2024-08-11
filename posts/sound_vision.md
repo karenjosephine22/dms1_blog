@@ -1,5 +1,5 @@
 ---
-title: Crafting the Perfect Soundtrack to Enhance Your Vision
+title: Crafting the Perfect Soundtrack🌟
 published_at: 2024-07-29
 snippet: Sound Design Q&A about Self Potrait Video
 disable_html_sanitization: true
