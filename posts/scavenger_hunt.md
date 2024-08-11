@@ -30,7 +30,7 @@ allow_math: true
 *After diligently searching around the campus and not finding any further clues, we were starting to feel a bit discouraged😖. Just as we were about to leave and go on with our next item, we noticed the group from the scavenger hunt. After they finished and left, we hurried back to the statue, and took a selfie with the statue ourselves*
 ![ape hands](ape.jpeg) 
 
-## The Door of the Condemned: A Historical Discovery
+## The Door of the Condemned: A Historical Discovery😱
 *While pondering our options, we bumped into the other group participating in the scavenger hunt. We exchanged a few clues and insights, sharing our respective findings. They mentioned a clue they had come across about a prison..*
 ![door of the condemned](door.jpeg)
 
