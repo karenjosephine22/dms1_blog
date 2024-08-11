@@ -7,6 +7,6 @@ allow_math: true
 ---
 
 ## Story Board from Youtube
-![how to train your dragon](dragon.jpeg)
+![how to train your dragon](hiccup.png)
 
 ## Self Potrait Story Board
