@@ -46,3 +46,4 @@ allow_math: true
 *The golden globe, atop the tower of eights. Time was ticking out, and we had yet to find the last item on our list. Desperation set in. With time almost up, someone pointed out a decorative lampion hanging nearby. It was a yellowish-golden color, and while it wasn’t exactly a globe, it was the closest thing we had found😅.*
 ![golden globe](globe.jpeg)
 
+*the end*
