@@ -20,5 +20,8 @@ allow_math: true
 
 ![progress empat](last.jpeg)
 
+## Draft
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XRTmjJEnKJo?si=PqB3X1FFDUTVRFTz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Final Assignment
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-atiziizm2s?si=9FoGzLNv54DfZueP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
