@@ -7,3 +7,6 @@ allow_math: true
 ---
 
 ## Black Square Activity
+![black one](process.jpeg)
+
+![black two](squares.jpeg)
