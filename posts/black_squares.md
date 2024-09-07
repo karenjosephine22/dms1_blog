@@ -13,4 +13,5 @@ allow_math: true
 
 ## Brainstorming Ideas
 ![memory](memory.png)
+
 ![growth](growth.png)
