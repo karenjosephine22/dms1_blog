@@ -9,6 +9,7 @@ allow_math: true
 ## Thumbnail Sketches Practice
 ![music](ts.jpeg)
 
+
 ![memory](tsmemory.png)
 
 ![growth](tsgrowth.png)

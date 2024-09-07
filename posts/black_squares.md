@@ -1,5 +1,5 @@
 ---
-title: Crafting Squares and Learning Illustrator🌱☁️⬛🦥
+title: Crafting Squares with Illustrator🌱☁️⬛🦥
 published_at: 2024-08-12
 snippet: Learning the Ropes with a Black Squares Exercise!
 disable_html_sanitization: true
