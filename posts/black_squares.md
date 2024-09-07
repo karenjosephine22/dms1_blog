@@ -10,3 +10,7 @@ allow_math: true
 ![black one](process.jpeg)
 
 ![black two](squares.jpeg)
+
+## Brainstorming Ideas
+![memory](memory.png)
+![growth](growth.png)
