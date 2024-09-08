@@ -8,3 +8,5 @@ allow_math: true
 ## Getting HTML working
 ![deno one](deno.jpeg)
 ![deno two](denoo.jpeg)
+
+![audio](audio.jpeg)
