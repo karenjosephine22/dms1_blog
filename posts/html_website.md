@@ -10,5 +10,5 @@ allow_math: true
 
 ![deno one](deno.jpeg)
 ![deno two](denoo.jpeg)
-![deno three](denooo.jpeg)
+![deno three](denooo.png)
 
