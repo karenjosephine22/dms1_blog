@@ -12,6 +12,8 @@ allow_math: true
 ## Final Assignment
 file:///C:/Users/kajok/Documents/dms1_icons/public/index.html
 
+https://github.com/karenjosephine22/dms1_icons/blob/main/public/index.html 
+
 *In the journey of web design, creating engaging and interactive elements can transform a user's experience. For my final project, I chose to explore this concept by designing a set of growth-themed icons. These icons, which represent various aspects of growth, feature an interactive element that changes their appearance and sounds when clicked. My approach started with a monochromatic color scheme and evolved into vibrant, dynamic visuals that enhance user interaction. Here’s how I brought this idea to life.*
 
 ![icons](icons.jpeg)
