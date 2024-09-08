@@ -14,4 +14,4 @@ allow_math: true
 
 ![deno three](denooo.png)
 
-*Thank you for your patience and invaluable guidance throughout this project Mx Thomas!!*
+*Thank you for your patience and invaluable guidance throughout this project Mx Thomas!! I am genuinely grateful for the support and encouragement you gave🙇‍♀️*
