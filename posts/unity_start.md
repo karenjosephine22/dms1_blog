@@ -12,3 +12,5 @@ allow_math: true
 
 ## Change
 ![mindmap](change.png)
+
+![concept](conceptdisney.png)
