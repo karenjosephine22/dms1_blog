@@ -8,7 +8,7 @@ allow_math: true
 
 ## Adventure Trip to By Korea
 ![by korea](bykorea.jpg)
-
+*A friend of mine tried it later on and said the food was good*
 
 ## Terrain and Character Control
 ![satu](week7satu.jpeg)

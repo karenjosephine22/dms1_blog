@@ -7,14 +7,15 @@ allow_math: true
 ---
 
 ## Solar System
+*We began our journey into Unity by downloading the software and diving into the basic concepts, like creating simple shapes such as cubes and spheres, and making materials to give our 3D objects some personality. While these concepts seemed pretty straightforward, I found myself struggling a bit with navigating and viewing the 3D space. It took some time to get used to the controls and see everything from different angles. Still, today’s lesson really helped me build a solid foundation for understanding the software, and I’m genuinely excited to see what’s next!*
 ![planetone](planetsatu.jpeg)
+
 ![planettwo](planetdua.jpeg)
 
 ## Change
+*Discovering Disney was a turning point in my life. As a child, As a child, Disney opened up a world of wonder, where stories came alive and anything felt possible. The vibrant characters, enchanting narratives, and moral lessons embedded in the films taught me many valuable values in my life.*
+
+*Through the years, Disney's inspired my love for music and animation, sparking my creativity. It helped me see the world in a more imaginative way, turning everyday moments into something special. Now, as an adult, I realize that Disney is more than just entertainment; it’s a big part of who I am. Through my project, I want to show this journey of change and how Disney has enriched my life, inspiring me to embrace creativity and imagination..*
 ![mindmap](change.png)
 
 ![concept](conceptdisney.png)
-
-*Discovering Disney marked a pivotal transformation in my life, igniting my imagination and shaping my identity. As a child, Disney introduced me to a world of wonder, where stories came alive and anything felt possible. The vibrant characters, enchanting narratives, and moral lessons embedded in the films taught me the value of kindness, courage, and resilience.*
-*Through the years, Disney's influence fostered my love for music and animation, sparking creativity that permeated my everyday life. The artistry and storytelling inspired me to see the world through a more imaginative lens, turning the mundane into the magical. As I grew up, these early experiences became foundational elements of my personality—fueling my passion for creativity and my desire to express myself.*
-*Now, as an adult, I recognize that Disney is more than just entertainment; it has become a part of who I am. The themes of hope, adventure, and the importance of believing in oneself resonate deeply with me. This transformation reflects not only a shift in perspective but also a lifelong appreciation for the power of storytelling and the joy of creativity. Through my project, I aim to capture and convey this journey of change, illustrating how Disney has enriched my life and continues to inspire me.*
