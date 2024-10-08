@@ -8,7 +8,9 @@ allow_math: true
 
 # GreyBox Method
 ![satu](week8satu.jpeg)
+
 ![dua](week8dua.jpeg)
+
 ![tiga](week8tiga.jpeg)
 
 # Importing Sounds
