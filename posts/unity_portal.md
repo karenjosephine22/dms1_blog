@@ -15,6 +15,8 @@ allow_math: true
 
 ![tiga](portaltiga.jpeg)
 
+*After watching several tutorials on how to create a portal, I gave it a try, but it didn’t work as expected. Instead of teleporting me, the portal just let me pass through, which was disappointing. So, I decided to change my approach and switched from creating a portal to designing a door that would lead to the other side. This new idea feels more manageable, and I’m hopeful it’ll work out this time!*
+
 ![empat](portalempat.jpeg)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cWpFZbjtSQg?si=Ae39WtK0ojjyNgOf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
