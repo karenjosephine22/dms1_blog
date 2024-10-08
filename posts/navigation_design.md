@@ -17,4 +17,6 @@ allow_math: true
 
 ![tiga](week7tiga.jpeg)
 
+*Learning to use the character controller and create terrain with adjustable heights was a really cool experience! It felt great to see how we could shape the environment exactly as we wanted. However, I did find the scripting part a bit confusing at times.*
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f473C43s8nE?si=1AhEsnAJez2hDNi3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
