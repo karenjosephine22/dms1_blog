@@ -9,3 +9,6 @@ allow_math: true
 ## Solar System
 ![planetone](planetsatu.jpeg)
 ![planettwo](planetdua.jpeg)
+
+## Change
+! [mindmap](change.png)
