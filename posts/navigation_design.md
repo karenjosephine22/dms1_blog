@@ -11,6 +11,6 @@ allow_math: true
 
 
 ## Terrain and Character Control
-![week7 satu](week7satu.jpeg)
-![week7 dua](week7dua.jpeg)
-![week7 tiga](week7tiga.jpeg)
+![satu](week7satu.jpeg)
+![dua](week7dua.jpeg)
+![tiga](week7tiga.jpeg)
