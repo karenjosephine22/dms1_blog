@@ -6,7 +6,7 @@ disable_html_sanitization: true
 allow_math: true
 ---
 
-## Portal YouTube Tutorials
+## YouTube Tutorials for Portals
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WQAaiI-E12s?si=zkRVIR5o_83eKYrJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ![satu](portalsatu.jpeg)
