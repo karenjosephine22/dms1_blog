@@ -10,4 +10,7 @@ allow_math: true
 ![by korea](bykorea.jpg)
 
 
-## Terrain and 
+## Terrain and Character Control
+![week7 satu](week7satu.jpeg)
+![week7 dua](week7dua.jpeg)
+![week7 tiga](week7tiga.jpeg)
