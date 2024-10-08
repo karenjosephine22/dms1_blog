@@ -11,4 +11,4 @@ allow_math: true
 ![planettwo](planetdua.jpeg)
 
 ## Change
-! [mindmap](change.png)
+![mindmap](change.png)
