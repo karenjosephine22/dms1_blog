@@ -10,7 +10,7 @@ allow_math: true
 ![planetone](planetsatu.jpeg)
 
 ![planettwo](planetdua.jpeg)
-*We began our journey into Unity by downloading the software and diving into the basic concepts, like creating simple shapes such as cubes⬛ and spheres⚪, and making materials to give our 3D objects some personality. While these concepts seemed pretty straightforward, I found myself struggling a bit with navigating and viewing the 3D space💤. It took some time to get used to the controls and see everything from different angles🚀. Still, today’s lesson really helped me build a solid foundation for understanding the software, and I’m genuinely excited to see what’s next!*
+*We began our journey into Unity by downloading the software and diving into the basic concepts, like creating simple shapes such as cubes⬛ and spheres⚫, and making materials to give our 3D objects some personality. While these concepts seemed pretty straightforward, I found myself struggling a bit with navigating and viewing the 3D space💤. It took some time to get used to the controls and see everything from different angles🚀. Still, today’s lesson really helped me build a solid foundation for understanding the software, and I’m genuinely excited to see what’s next!*
 
 ## Change
 ![mindmap](change.png)
