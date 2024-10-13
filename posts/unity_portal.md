@@ -15,7 +15,9 @@ allow_math: true
 
 ![tiga](portaltiga.jpeg)
 
-*After watching several tutorials on how to create a portal, I gave it a try, but it didn’t work as expected. Instead of teleporting me, the portal just let me pass through, which was disappointing. So, I decided to change my approach and switched from creating a portal to designing a door that would lead to the other side. This new idea feels more manageable, and I’m hopeful it’ll work out this time!*
+*After watching several tutorials on how to create a portal🪬, I was eager to give it a try. However, when I tested it, the result was quite disappointing; instead of teleporting me, the portal simply allowed me to pass through it🤡. This setback was frustrating, but it also pushed me to rethink my approach.*
+
+*I decided to shift gears from creating a portal to designing a door that would lead to the other side. This new concept feels much more manageable and aligns better with my overall vision🌀. I’m optimistic that this change will yield a successful outcome, and I’m excited to see how it will enhance the experience in my 3D environment!*
 
 ![empat](portalempat.jpeg)
 
