@@ -13,7 +13,7 @@ allow_math: true
 
 ![tiga](week8tiga.jpeg)
 
-*Greyboxing is a great method for planning future projects, allowing you to visualize your ideas before diving in. I didn’t create a greybox this time because I already had a clear idea of what I wanted to make and the key landmarks I wanted to include🧸.* 
+*Greyboxing is an excellent method for planning future projects, as it enables creators to visualize their ideas and concepts before fully committing to the design process. This technique often serves as a valuable foundation, helping to identify potential challenges and streamline workflows. By sketching out basic shapes and forms, you can quickly assess the layout and scale of your environment, making adjustments as needed. It’s a practical approach that fosters creativity and encourages experimentation without the pressure of detailed final assets. However, I didn’t create a greybox for this project because I already had a clear vision of what I wanted to achieve and the key landmarks I wanted to include🧸.*
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cOSxvvnGnuM?si=eKTGWSVRxfRGKc0G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
