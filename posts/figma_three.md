@@ -1,7 +1,7 @@
 ---
 title: Wireframing Adventures
 published_at: 2024-10-11
-snippet: Crafting Wireframes from Scratch
+snippet: Crafting Wireframes from Scratch - Experimentation Journey
 disable_html_sanitization: true
 allow_math: true
 ---
