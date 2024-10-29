@@ -32,9 +32,5 @@ allow_math: true
 
 *6. From Abstract to Concrete Designs: To translate my chosen prompt of "Growth" from an abstract idea to concrete visual designs, I focused on symbols that inherently represent change and development. I brainstormed various natural and metaphorical representations of growth and distilled these concepts into clear, recognizable icons. This process involved selecting symbols that resonate with the theme while ensuring each design conveys a unique aspect of growth, resulting in a cohesive and meaningful set of icons.*
 
-## Answering Questions
-What kind of key words do you want the user to associate with the aesthetics of your webpage?
+## Assignment  3 - Unity
 
-Who is the target audience?
-
-What features will your audience want to see in your final webpage design?

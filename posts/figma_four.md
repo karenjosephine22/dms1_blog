@@ -8,4 +8,5 @@ allow_math: true
 
 
 ![week10](week10empat.jpeg)
+
 ![week10](week10lima.jpeg)
