@@ -7,4 +7,10 @@ allow_math: true
 ---
 
 ## Wireframing At Class
+![week10](week10satu.jpeg)
+![week10](week10dua.jpeg)
+![week10](week10tiga.jpeg)
 
+
+## Wireframe Draft
+![week10](wireframe.jpeg)
