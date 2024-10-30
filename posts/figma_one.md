@@ -33,7 +33,7 @@ allow_math: true
 *To translate my chosen prompt of "Growth" from an abstract idea to concrete visual designs, I focused on symbols that inherently represent change and development. I brainstormed various natural and metaphorical representations of growth and distilled these concepts into clear, recognizable icons. This process involved selecting symbols that resonate with the theme while ensuring each design conveys a unique aspect of growth, resulting in a cohesive and meaningful set of icons.*
 
 ## Assignment  3 - Virtual Environment
-*Although I did not create a physical prototype for my virtual environment, visualizing my ideas was crucial to the design process. This approach allowed me to conceptualize the two contrasting environments effectively. By envisioning both the dull, void space and the vibrant, Disney-inspired world, I was able to refine my vision and ensure that each element served the overall theme of change.*8
+*Although I did not create a physical prototype for my virtual environment, visualizing my ideas was crucial to the design process. This approach allowed me to conceptualize the two contrasting environments effectively. By envisioning both the dull, void space and the vibrant, Disney-inspired world, I was able to refine my vision and ensure that each element served the overall theme of change.*
 
 *In 3D, I had to consider depth, perspective, and spatial relationships, which added complexity to my design choices. Unlike in 2D, where visuals are flat, 3D design required me to think about how elements interact in a physical space, creating a more immersive experience for users.*
 
