@@ -6,14 +6,13 @@ disable_html_sanitization: true
 allow_math: true
 ---
 
-## Answering Questions
-*What kind of key words do you want the user to associate with the aesthetics of your webpage?*
+## What kind of key words do you want the user to associate with the aesthetics of your webpage?
 *When I think about the vibe I want my artist portfolio to have, keywords like "minimalist," "elegant," and "creative" come to mind. I want it to feel fresh and modern while still showcasing my unique style. I also want to incorporate words like "dynamic" and "intuitive" because I believe the design should engage visitors and be super easy to navigate. Ultimately, I want my work to take center stage without any distractions!*
 
-*Who is the target audience?*
+## Who is the target audience?
 *As for my target audience, I’m hoping to reach a mix of art lovers, potential clients, and fellow artists. I want art enthusiasts who are excited to explore new styles, clients who are searching for their next creative project, and collaborators interested in teaming up. Understanding who I’m speaking to helps me create content that really resonates with them.*
 
-*What features will your audience want to see in your final webpage design?*
+## What features will your audience want to see in your final webpage design?
 *In terms of features, I’m focusing on making sure my portfolio has everything visitors want to see. I definitely want a stunning gallery to showcase my artwork front and center. An engaging artist bio is a must, too, so people can get to know me better. I’ll include easy-to-find contact info for inquiries and links to my social media so folks can follow my journey.*
 
 ## First Draft of Artist or Designer Bio
@@ -21,3 +20,4 @@ allow_math: true
 
 
 ![figma](figma.jpeg)
+
