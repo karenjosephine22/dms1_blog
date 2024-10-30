@@ -44,3 +44,6 @@ allow_math: true
 *To unify the different elements of my virtual environment, I centered everything around the theme of change. The progression from a dull, void space to a vibrant Disney-inspired world reflected personal exploration and growth. As I developed the project, I realized that my connection to "Tangled" stemmed from Rapunzel's desire for freedom and adventure, paralleling my own experiences of moving to Melbourne and pursuing design.*
 
 *During the playtesting phase, I discovered nuances in user interaction that I wouldn’t have recognized otherwise. Feedback highlighted how users emotionally responded to the transition between environments, emphasizing the importance of pacing in this journey. These insights informed adjustments that enhanced the overall experience, ensuring that the theme of change resonated more profoundly with the audience.*
+
+
+~ - ~ - ~ - ~ - ~ - ~ - ~ - ~ - ~ - ~ - ~ - ~ - ~ - ~ - ~ - ~ - ~ - ~ - ~ - ~ - ~ - ~ - ~ - ~ - ~ - ~ - ~ - ~ - ~ 
