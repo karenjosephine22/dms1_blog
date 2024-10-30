@@ -1,5 +1,5 @@
 ---
-title: Web Accessibility 101
+title: Web Accessibility 101📖🔎🧮📍
 published_at: 2024-10-14
 snippet: Understanding the Importance of Accessible Web Design
 disable_html_sanitization: true

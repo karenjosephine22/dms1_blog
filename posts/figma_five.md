@@ -1,5 +1,5 @@
 ---
-title: Visualizing Growth
+title: Visualizing Growth🔑🎈🏆🌷  
 published_at: 2024-10-18
 snippet: My Semester 1 Portfolio in Figma
 disable_html_sanitization: true

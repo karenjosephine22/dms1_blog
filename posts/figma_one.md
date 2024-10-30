@@ -1,5 +1,5 @@
 ---
-title: Mapping My Journey
+title: Mapping My Journey🗺️⚔️💡💎
 published_at: 2024-10-04
 snippet: A Semester of Growth in Personal, Technical, and Conceptual Dimensions
 disable_html_sanitization: true

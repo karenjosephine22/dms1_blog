@@ -1,5 +1,5 @@
 ---
-title: Words that Inspire 
+title: Words that Inspire👩‍🎨🍁🪁🍒
 published_at: 2024-10-07
 snippet: Art and Authenticity - Exploring Figma for the First Time!!
 disable_html_sanitization: true
