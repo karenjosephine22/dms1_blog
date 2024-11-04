@@ -21,3 +21,5 @@ allow_math: true
 ![figma](figma.jpeg)
 
 *Today in class, we took our first steps into Figma, the design tool we'll use for our final assignment, and it was an exciting introduction to creating an artist portfolio. We learned how to design scrolling pages, which will help viewers navigate through different sections of our work smoothly. Exploring gradients for text and backgrounds added depth to our designs, while delving into animations showed us how to bring our portfolios to life and engage audiences more dynamically.*
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =

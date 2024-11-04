@@ -24,3 +24,5 @@ allow_math: true
 *Finished creating a wireframe for my own artist portfolio! I wanted to keep the design simple yet fun and easy to navigate. While checking out other artists' portfolios for inspiration, I jotted down ideas and sketched my vision. I opted for good old-fashioned drawing instead of using Figma this time—honestly, it felt so much faster and more intuitive! It was great to let my creativity flow without getting bogged down by software.*
 
 *In my wireframe, I focused on ensuring each section flows smoothly, highlighting my artwork and making it easy for visitors to learn about me. I aimed for a design that captures my personality while keeping the user experience in mind.* 
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
