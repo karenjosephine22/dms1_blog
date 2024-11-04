@@ -6,8 +6,10 @@ disable_html_sanitization: true
 allow_math: true
 ---
 
-## Youtube Tutorials 
+## Figma
+![portfolio](portfoliosatu.jpeg)
 
+![portfolio](portfoliodua.jpeg)
 
 ## Final Result
 Desktop
