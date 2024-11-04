@@ -7,11 +7,11 @@ allow_math: true
 ---
 
 ## How to Make a Website Easy to Navigate
+*I want my portfolio to be minimalist and easy to access, while also incorporating fun colors that showcase the kind of work I do. To enhance navigation, I decided to make the top row of my website fixed, featuring three icons in the top left corner: Home, Work, and Contact. This layout keeps essential links easily accessible at all times Additionally, I’ve included a feature that allows users to scroll back to the top of the page at any time, making it effortless to navigate through the site.*
+
 ![portfolio](portfoliosatu.jpeg)
 
 ![portfolio](portfoliodua.jpeg)
-
-*I want my portfolio to be minimalist and easy to access, while also incorporating fun colors that showcase the kind of work I do. To enhance navigation, I decided to make the top row of my website fixed, featuring three icons in the top left corner: Home, Work, and Contact. This layout keeps essential links easily accessible at all times Additionally, I’ve included a feature that allows users to scroll back to the top of the page at any time, making it effortless to navigate through the site.*
 
 ## Final Result
 *Finally, after changing a few font sizes and adding animations, I'm excited to share how the results turned out! I created two versions: one for desktop and one optimized for the iPhone 16. Both designs maintain easy navigation while being colorful and engaging. The adjustments have really enhanced the user experience, making it both visually appealing and functional. I can't wait for everyone to check it out!*
