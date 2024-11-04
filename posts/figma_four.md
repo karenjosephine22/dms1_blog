@@ -6,7 +6,7 @@ disable_html_sanitization: true
 allow_math: true
 ---
 
-
+## 12-Column Grid
 ![week10](week10empat.jpeg)
 
 ![week10](week10lima.jpeg)
@@ -19,6 +19,8 @@ allow_math: true
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t-rteFlc-Fs?si=T54Uq3mnEHrPTx6l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZaBgjnBv75k?si=9FONU9eU4kNjRnln" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+*I've watched several YouTube videos about Figma, diving into how to input videos and create animations. It’s fascinating to see the versatility of the platform! One neat feature I discovered is that you can easily input icons by simply downloading a set and importing it into your project. This makes it so much easier to enhance designs with professional-looking elements.*
 
 
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
